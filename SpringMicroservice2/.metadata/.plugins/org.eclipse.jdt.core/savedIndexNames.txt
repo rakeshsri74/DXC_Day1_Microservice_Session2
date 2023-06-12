@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\STS\DXC\SpringMicroservice2\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1827221533.index
+4179887060.index

@@ -1,0 +1,15 @@
+package com.dxc.dao;
+
+import java.util.List;
+
+import com.dxc.model.Review;
+
+public class ReviewDaoImpl implements ReviewDao {
+
+	@Override
+	public List<Review> getReview() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

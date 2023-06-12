@@ -1,0 +1,15 @@
+package com.dxc.service;
+
+import java.util.List;
+
+import com.dxc.model.Review;
+
+public class ReviewServiceImpl implements ReviewService {
+
+	@Override
+	public List<Review> getReview() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
